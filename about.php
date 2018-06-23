@@ -64,6 +64,20 @@ foreach ($content as $data){
             </div>
         <?php
             break;
+        case "Management Board":
+            ?>
+            <div class="jumbotron jumbotron-fluid border border-light rounded" id="management">
+                <div class="container">
+                    <h1 class="display-4"><?=$data['title']?></h1>
+                    <hr class="my-2">
+                    <p class="lead">
+                        <img src="<?= $data['src'] ?>" alt="Management Board" class="img-fluid">
+                    </ul>
+                    </p>
+                </div>
+            </div>
+        <?php
+            break;
         case "Quality Policy":
             ?>
             <div class="jumbotron jumbotron-fluid border border-light rounded" id="quality">
