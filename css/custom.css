@@ -1,0 +1,197 @@
+/* Header Parallax Element Style*/
+.paral {
+	min-height: 600px;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: 50% 50%;
+}
+/*Paragraph For Parallx Section */
+.paral p {
+	font-size: 24px;
+	color:#f5f5f5;
+	text-align: center;
+	line-height: 60px;
+}
+
+
+/*For Full Width Header*/
+.wide {
+	background-image:url('../image/image_head.jpeg');
+	height: 100vh;
+	min-height: 100%;
+	max-height: 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.jumbotron {
+	margin-bottom: 0px !important;
+}
+/*For Vertical Center Elements In Bootstrap*/
+.vertical-center {
+	position: absolute;
+	top: 50%;
+	left:50%;
+	width: 100%;
+	transform: translate(-50%,-50%);
+}
+.wide h1{
+	font-family: 'Roboto Slab',shrif;
+	color: white;
+}
+/*Font Size Increase*/
+.f-20{
+	font-size: 30px;
+}
+
+/*FAB Bottom Header Icon*/
+.icon-to-bottom {
+	position:absolute;
+	bottom: 1%;
+	width: 100%;
+}
+
+/*Decrease Font Size On Phones*/
+@media all and (min-width: 200px) {
+	.wide h1{
+		font-size: 45px;
+	}
+}
+/*Some Css Classes For Margins*/
+.mar-bottom{
+	margin-bottom: .96rem !important;
+}
+.mar-remove{
+	margin: 0px !important;
+}
+:root{
+	--text-meg:#2f2424;
+}
+.text-meg{
+	color: var(--text-meg);
+}
+/*Special Date And Time Card Containers Css*/
+.card .time-card{
+	font-weight: bold;
+}
+#particles-js{
+	width: 100% !important;
+	height: 100% !important;
+	background-position: 50% 50%;
+}
+/*Special Date And Time Card Containers Css*/
+
+
+/*Partcle Js Container Css*/
+#particles-js canvas{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+/*Card Body Badge Css*/
+.card-body .badge{
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+.navbar{
+	z-index: 1 !important;
+}
+
+
+/*Custom Colors*/
+/*Custom Color Button Maroon*/
+.maroon{
+	background-color: #b1040e;
+	color: white;
+	outline:0px;
+	transition: all ease-in-out 0.26s;
+}
+.maroon:focus{
+	background-color: #b11200;
+	color: white;
+}
+.maroon:hover{
+	background-color: #b10012;
+	color: white;
+}
+text-maroon{
+	color:#b1040e !important;
+}
+/*Custom Color For Button End*/
+
+.maroon a{
+	color:#eeeeee;
+}
+.nav-link{
+	color: white !important;
+}
+.dropdown-menu .dropdown-item{
+	color: var(--gray-dark);
+}
+.dropdown-menu .dropdown-item:focus{
+	background-color: #eee;
+}
+
+/*Border Radius Remove*/
+.border-r-remove{
+	border-radius: 0px !important;
+}
+/*Some Custom Css For Cards In Student Section*/
+/*Adding Margin In Cards Like Email*/
+.card-spl-margin{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	border-radius: 0px;
+	border-top: #b11200 solid 5px !important;
+}
+
+/*Increasing Size Of Icon IN Cards*/
+.card .card-icon{
+	font-size: 50px;
+}
+/*Increasing Size Of Headings For Cards*/
+.card .card-body .title{
+	font-size: 24px;
+	font-weight: bold;
+}
+.sand-bg{
+	background-color: #f9f6ef;
+}
+
+/*Font Size 24*/
+.f-24{
+	font-size: 24px;
+}
+.external-links{
+    font-size: 22px;
+    font-weight: bold;
+}
+.card{
+    border: 0px solid transparent !important;
+}
+
+/*Links Css For Student And Staff Sections*/
+.links-for-sections{
+	font-weight: bold;
+	font-size: 20px;
+	color:#b11200;
+}
+.links-for-sections:hover{
+	color:#b11200;
+	text-decoration: underline;
+}
+
+/*Button Maroon*/
+.maroon_btn{
+	background-color: #b1040e !important;
+	color: white;
+	outline:0px;
+	transition: all ease-in-out 0.26s;
+}
+.maroon_btn:hover{
+	background-color: transparent !important;
+	color: #b1040e;
+	border: 2px #b1040e solid;
+}

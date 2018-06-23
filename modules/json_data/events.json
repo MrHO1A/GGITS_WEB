@@ -1,0 +1,32 @@
+{
+  "events_data":[
+    {
+      "ev_date":"21 MAY",
+      "ev_name":"Graduation Ceremony",
+      "ev_time":"10:30 AM",
+      "ev_image":"grad_cer.jpg",
+      "ev_data":"Graduation Ceremony 2018 was held at Gyan Ganga Group of Institutions for final year students of GGCT & GGITS. "
+    },
+    {
+      "ev_date":"28 FEB",
+      "ev_name":"Wushu Training",
+      "ev_time":"9:30 AM",
+      "ev_image":"self_def.jpg",
+      "ev_data":"Wushu training provided by Vikram Awardee Purvi Soni and National medalist Tarun Namdeo at Gyan Ganga College on the final day of 3 days Self defence workshop organized by Women Empowerment Cell of Gyan Ganga Group."
+    },
+    {
+      "ev_date":"24 APRIL",
+      "ev_name":"SS Carnival",
+      "ev_time":"7:30 PM",
+      "ev_image":"ss_car.jpg",
+      "ev_data":"GyanGanga Campus witnessed the most awaited event of April, *SSCarnival* organized and managed by SS Events and 13 Star events Planner . Carnival kicked off with several adventure rides, followed by an enthralling performance by a rock band of Gyan Ganga."
+    },
+    {
+      "ev_date":"7 FEB",
+      "ev_name":"Gyanotsav",
+      "ev_time":"9:30 AM",
+      "ev_image":"gyanotsav.jpg",
+      "ev_data":"The cultural night of Gyanotsav started with an exquisite Ganesh dance, followed by the Saraswati vandana, an essential part of Gyan Ganga events."
+    }
+  ]
+}

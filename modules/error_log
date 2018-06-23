@@ -1,0 +1,18 @@
+[22-Jun-2018 21:07:15 UTC] PHP Warning:  file_get_contents(http://69.195.158.226/gyanganga/json_data/events.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/gyangang/public_html/modules/events_cards_maker.php on line 3
+[22-Jun-2018 21:07:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gyangang/public_html/modules/events_cards_maker.php on line 9
+[22-Jun-2018 21:07:46 UTC] PHP Warning:  file_get_contents(http://69.195.158.226/json_data/events.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/gyangang/public_html/modules/events_cards_maker.php on line 3
+[22-Jun-2018 21:07:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gyangang/public_html/modules/events_cards_maker.php on line 9
+[22-Jun-2018 21:08:37 UTC] PHP Warning:  file_get_contents(http://69.195.158.226/json_data/events.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/gyangang/public_html/modules/events_cards_maker.php on line 3
+[22-Jun-2018 21:08:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gyangang/public_html/modules/events_cards_maker.php on line 9
+[22-Jun-2018 21:08:37 UTC] PHP Warning:  file_get_contents(http://69.195.158.226/json_data/events.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/gyangang/public_html/modules/events_cards_maker.php on line 3
+[22-Jun-2018 21:08:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gyangang/public_html/modules/events_cards_maker.php on line 9
+[22-Jun-2018 21:08:57 UTC] PHP Warning:  file_get_contents(http://69.195.158.226/json_data/events.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/gyangang/public_html/modules/events_cards_maker.php on line 3
+[22-Jun-2018 21:08:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gyangang/public_html/modules/events_cards_maker.php on line 9
+[22-Jun-2018 21:09:17 UTC] PHP Warning:  file_get_contents(http://69.195.158.226/json_data/events.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/gyangang/public_html/modules/events_cards_maker.php on line 3
+[22-Jun-2018 21:09:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gyangang/public_html/modules/events_cards_maker.php on line 9

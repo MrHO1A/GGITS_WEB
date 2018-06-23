@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "title":"vision",
+      "vision": {
+        "heading": "Initially to seek autonomy and eventually grow the Institute into a renowned University by:",
+        "points": [
+          "Imparting the best technical and professional education to the students of the Institute.",
+          "Developing all the Departments of the Institute as Centers of Excellence.",
+          "Creating the most congenial and cordial environment of Teaching, Learning and Research in the Institute.",
+          "Conceiving world - class Education, Ethics and Employability for students in global perspective."
+        ]
+      }
+    },
+    {
+      "title":"mission",
+      "mission":{
+        "heading": "To explore and ensure the best environment to transform students into creative, knowledgeable, principled engineers and managers compatible with their abilities in ever-changing socio-economic and competitive scenario by :",
+        "points": [
+          "Imparting intensive teaching and training through latest technology",
+          "Motivating the teachers for higher learning and innovative research activities with social services.",
+          "Generating maximum opportunities for placement of students in National, Multi-National companies and nurturing entrepreneurship quality.",
+          "Producing highly intellectual citizens through technical education to constitute an elegant society and meeting social challenges."
+        ]
+      }
+    },
+    {
+      "title":"quality_policy",
+      "quality_policy":{
+        "heading":"Quality Policy of Institute",
+        "content":"We are committed to give the society a worthy citizen – a person of high intellectual, physical, moral and spiritual attainments. We shall achieve this through continual improvement in our services and through personalized individualistic attention, to bring out the talent and potentialities of every student joining the institution with a motto",
+        "moto":"To excel in Education and Community Services"
+      }
+    },
+    {
+      "title":"peo",
+      "peo":{
+        "data":[
+          "PEO 1. Graduates will practice their profession with confidence and global Competitiveness and make intellectual contributions to it.",
+          "PEO 2. Graduates will work as teams on multidisciplinary projects with effective communication skills and leadership qualities.",
+          "PEO 3. Graduates will adapt in their profession with social awareness, ethics and responsibility.",
+          "PEO 4. Graduates will pursue advanced study and research."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "car_data":[
+    {
+      "title":"Smart India Hackathon",
+      "desc":"Techyons stood fourth in Smart India Hackathon",
+      "image":"image3.jpg"
+    },
+    {
+      "title":"Graduation Ceremony",
+      "desc":"Memorable and nostalgic moment for senior students of Gyan Ganga",
+      "image":"image1.jpg"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "dept_data":[
+    {
+      "dept_name":"CSE",
+      "dept-link":"http://ggits.org/cse/"
+    },
+    {
+      "dept_name":"ECE",
+      "dept-link":"http://ggits.org/ec/"
+    },
+    {
+      "dept_name":"EE",
+      "dept-link":"http://ggits.org/ee/"
+    },
+    {
+      "dept_name":"ME",
+      "dept-link":"http://ggits.org/me/"
+    },
+    {
+      "dept_name":"EX",
+      "dept-link":"http://ggits.org/ex/"
+    },
+    {
+      "dept_name":"Civil",
+      "dept-link":"http://ggits.org/civil/"
+    },
+    {
+      "dept_name":"IT",
+      "dept-link":"http://ggits.org/it/"
+    }
+  ]
+}
