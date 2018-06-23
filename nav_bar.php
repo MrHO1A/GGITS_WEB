@@ -28,12 +28,12 @@
                     About Us
                 </a>
                 <div class="dropdown-menu">
-                    <a class="dropdown-item" href="http://ggits.org/showpage.php?mainid=2&subid=113&menu=submain">Vision</a>
-                    <a class="dropdown-item" href="http://ggits.org/showpage.php?mainid=2&subid=146&menu=submain">Mission</a>
+                    <a class="dropdown-item" href="about.php#vision">Vision</a>
+                    <a class="dropdown-item" href="about.php#mission">Mission</a>
                     <a class="dropdown-item" href="http://ggits.org/showpage.php?mainid=2&subid=179&menu=submain">Management Board</a>
-                    <a href="http://ggits.org/showpage.php?mainid=2&subid=180&menu=submain" class="dropdown-item">Quality Policy</a>
+                    <a href="about.php#quality" class="dropdown-item">Quality Policy</a>
                     <a href="http://ggits.org/showpage.php?mainid=2&subid=204&menu=submain" class="dropdown-item">National Ranking</a>
-                    <a href="http://ggits.org/showpage.php?mainid=2&subid=231&menu=submain" class="dropdown-item">PEO</a>
+                    <a href="about.php#peo" class="dropdown-item">PEO</a>
                     <a href="http://ggits.org/showpage.php?mainid=2&subid=232&menu=submain" class="dropdown-item">Annual Budget</a>
                     <a href="http://ggits.org/showpage.php?mainid=2&subid=233&menu=submain" class="dropdown-item">Mandatory Disclosure</a>
                 </div>

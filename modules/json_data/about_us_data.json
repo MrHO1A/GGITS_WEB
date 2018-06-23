@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "title":"vision",
+      "title":"Vision",
       "vision": {
         "heading": "Initially to seek autonomy and eventually grow the Institute into a renowned University by:",
         "points": [
@@ -13,7 +13,7 @@
       }
     },
     {
-      "title":"mission",
+      "title":"Mission",
       "mission":{
         "heading": "To explore and ensure the best environment to transform students into creative, knowledgeable, principled engineers and managers compatible with their abilities in ever-changing socio-economic and competitive scenario by :",
         "points": [
@@ -25,7 +25,7 @@
       }
     },
     {
-      "title":"quality_policy",
+      "title":"Quality Policy",
       "quality_policy":{
         "heading":"Quality Policy of Institute",
         "content":"We are committed to give the society a worthy citizen – a person of high intellectual, physical, moral and spiritual attainments. We shall achieve this through continual improvement in our services and through personalized individualistic attention, to bring out the talent and potentialities of every student joining the institution with a motto",
@@ -33,7 +33,7 @@
       }
     },
     {
-      "title":"peo",
+      "title":"PEO",
       "peo":{
         "data":[
           "PEO 1. Graduates will practice their profession with confidence and global Competitiveness and make intellectual contributions to it.",
