@@ -195,3 +195,10 @@
 	color: #b1040e;
 	border: 2px #b1040e solid;
 }
+.carousel-custom .carousel-item {
+
+	background-size: cover;
+	background-position: 50% 50%;
+	width: 100%;
+	max-height: 100vh !important;
+}
