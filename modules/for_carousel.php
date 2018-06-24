@@ -11,7 +11,7 @@ $s_url = server_addr."/image/carousel/";
 //Getting Total Number Of Elements
 $total_elem = sizeof($json);
 ?>
-<div id="main-car" class="carousel slideInDown" data-ride="carousel" style="margin-bottom: 19px;">
+<div id="main-car" class="carousel slideInDown carousel-custom" data-ride="carousel" style="margin-bottom: 19px;">
     <ol class="carousel-indicators">
         <?php for($i=0;$i<$total_elem;$i++){
             //Php Code To Make Carousel Indecators

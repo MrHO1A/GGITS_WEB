@@ -19,6 +19,8 @@
     <link rel="stylesheet" href="css/jquery-ui.min.css">
     <script src="js/jquery-ui.min.js"></script>
     <script src="js/particles.js"></script>
+    <!-- ekko-lightbox -->
+    <link rel="stylesheet" href="css/ekko-lightbox.css">
     <!-- Custom Css Classes -->
     <link rel="stylesheet" href="css/custom.css">
     <!-- Custom Css Classes End -->

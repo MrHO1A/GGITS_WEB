@@ -79,14 +79,15 @@
                 <div class="dropdown-menu" aria-labelledby="training">
                     <a href="http://ggits.org/showpage.php?mainid=57&subid=59&menu=submain" class="dropdown-item">Campus-2018</a>
                     <a href="http://ggits.org/showpage.php?mainid=57&subid=59&menu=submain" class="dropdown-item">Campus-2017</a>
-                    <a href="http://ggits.org/showpage.php?mainid=57&subid=59&menu=submain" class="dropdown-item">Campus-2016</a>
-                    <a href="http://ggits.org/showpage.php?mainid=57&subid=60&menu=submain" class="dropdown-item">Campus-2015</a>
+                    <a href="http://www.ggits.org/images/2012-16.jpg" data-toggle="lightbox" class="dropdown-item">Campus-2016</a>
+                    <a href="http://www.ggits.org/images/2011-15.jpg" data-toggle="lightbox" class="dropdown-item">Campus-2015</a>
                 </div>
             </li>
             <li class="nav-item dropdown">
                 <a href="#" class="nav-link dropdown-toggle" id="awards" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Awards</a>
                 <div class="dropdown-menu" aria-labelledby="awards">
-                    <a href="http://ggits.org/showpage.php?mainid=175&subid=181&menu=submain" class="dropdown-item">Academic Achievements</a>
+                    <a href="http://ggits.org/images/academics-2010.jpg" data-gallery="academic" data-toggle="lightbox" data-title="Academic Achievements" class="dropdown-item">Academic Achievements</a>
+                    <div data-toggle="lightbox" data-gallery="academic" data-remote="http://ggits.org/images/rgpv-awards.pdf" data-type="url" data-title="Academic Achievements"></div>
                     <a href="#" class="dropdown-item">Outstanding Achievements</a>
                 </div>
             </li>
