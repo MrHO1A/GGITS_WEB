@@ -1,2 +1,2 @@
 <?php
-define("server_addr","http://192.168.1.3/gyanganga/");
+define("server_addr","http://localhost/GGITS_WEB/");
