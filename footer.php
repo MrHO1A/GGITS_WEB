@@ -5,8 +5,12 @@
     </div>
 </footer>
 <!--Footer End-->
-<script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
-<script src="js/ekko-lightbox.js"></script>
+
+<!--Scripts-->
+<?php include_once "modules/script_loader.php";
+//php to load javascripts external
+?>
+<!--Scripts End-->
 <script>
     $(document).on('click', '[data-toggle="lightbox"]', function(event) {
         event.preventDefault();

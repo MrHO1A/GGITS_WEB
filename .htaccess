@@ -1,8 +1,13 @@
  <IfModule mod_rewrite.c>
-      RewriteEngine on 
-RewriteCond %{REQUEST_FILENAME} !-d 
-RewriteCond %{REQUEST_FILENAME}\.php -f 
+RewriteEngine on
+Options +FollowSymlinks
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php
+## For Message Section ##
+RewriteRule ^message/(.*) messages.php?name=$1
+##END##
 </IfModule>
 ## EXPIRES CACHING ##
 <IfModule mod_expires.c>

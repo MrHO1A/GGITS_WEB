@@ -1,13 +1,6 @@
-<?php include "header.php"; ?>
-<?php include "preloader.php"; ?>
-</head>
+<?php include_once "header.php"; ?>
 
-<div class="load"><div class="load-image animated tada infinite"></div></div>
-<!--Navbar Placement Start-->
-<?php include "nav_bar.php"; ?>
-<!--Navbar Placement End-->
-
-<!--Gateway For Student Sections-->
+    <!--Gateway For Student Sections-->
 <div class="jumbotron jumbotron-fluid" style="background-color: #f9f6ef;">
     <div class="container">
         <h1 class="display-2 text-center">Gateway For Students</h1>

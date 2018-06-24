@@ -1,12 +1,4 @@
-<?php include "header.php"; ?>
-<?php include "preloader.php"; ?>
-
-    </head>
-
-    <div class="load"><div class="load-image animated tada infinite"></div></div>
-    <!--Navbar Placement Start-->
-<?php include "nav_bar.php"; ?>
-    <!--Navbar Placement End-->
+<?php include_once "header.php"; ?>
 
     <!--Main Website Faculty Content Start-->
     <div class="jumbotron jumbotron-fluid" style="background-color: #f9f6ef;">
