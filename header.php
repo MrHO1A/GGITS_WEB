@@ -8,6 +8,9 @@
     <meta name="theme-color" content="#282828" />
     <link rel="icon" href="favicon.png">
     <title>Gyan Ganga</title>
+    <!--Adding Favicon Icon-->
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
+    <!-- Favicon Icon End-->
     <!-- Fonts Start-->
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
     <!--Fonts End-->
