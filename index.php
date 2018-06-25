@@ -1,11 +1,11 @@
+
 <?php include "header.php"; ?>
-
-
+<div>
 <!--Full Width Header Start-->
 <div class="jumbotron jumbotron-fluid paral wide">
     <div id="particles-js"></div>
     <div class="container vertical-center" >
-        <p class="text-center"><img src="image/logo.png"
+        <p class="text-center"><img src="https://gyangan.ga/image/logo.png"
                                     class="img-fluid"
                                     alt="LOGO" width="150" height="150"></p>
         <h1 class="display-4 text-center animated fadeInDown maroon" style="padding-right: 10px;padding-left: 10px;padding-bottom: 10px;" >Gyan Ganga Institute of Technology and Science</h1>
@@ -15,7 +15,7 @@
     </div>
 </div>
 <!--Full Width Header End-->
-
+</div>
 <!--Content Section Start-->
 <div class="jumbotron sand-bg" id="content">
         <h1 class="text-center display-4">Gyan Ganga Today</h1>
