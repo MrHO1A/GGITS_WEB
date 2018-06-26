@@ -112,5 +112,4 @@
     </div>
 </div>
 <!--Acadmics Section End-->
-
 <?php include "footer.php"; ?>

@@ -4,7 +4,7 @@
 <script src="<?php echo server_addr; ?>js/fontawesome-all.min.js" defer="defer"></script>
 <script type="text/javascript" src="<?php echo server_addr; ?>js/bootstrap.bundle.min.js" defer="defer"></script>
 <script src="<?php echo server_addr; ?>js/ekko-lightbox.js" defer="defer"></script>
-<script src="<?php echo server_addr; ?>js/particles.js" defer="defer"></script>
+<script src="<?php echo server_addr; ?>js/particles.js"></script>
 <!--preloader Script-->
 <script>
     $(window).on("load",function () {
